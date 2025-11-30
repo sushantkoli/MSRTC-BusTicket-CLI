@@ -25,17 +25,18 @@ Built using **Java + OOP + Collections**.
 ---
 
 ## 
-✅ How to Test the Bus Ticket Booking CLI App
+**✅ How to Test the Bus Ticket Booking CLI App**
 
-STEP 1 — Download the Code →
+**STEP 1 — Download the Code →**
 
 1.Click Code (green button)
 
 2.Select Download ZIP
 
 3.Extract the ZIP file
+##
 
-STEP 2 — Open the Project Folder
+**STEP 2 — Open the Project Folder**
 
 You can open in VS Code, IntelliJ, Eclipse, or use only Command Prompt/Terminal.
 
@@ -45,3 +46,4 @@ Example (VS Code):
 
 2.File → Open Folder → Select the project folder
 3.Run MSRTCAPP.java
+##
